@@ -11,8 +11,7 @@ border around it. When the program starts, no square is selected. When the user 
 on a square that is not currently selected, it becomes selected, and the previously selected
 square, if any, is unselected. If the user clicks the square that is selected, it becomes
 unselected. Assume that the size of the checkerboard is exactly 400 by 400 pixels, so that
-each square on the checkerboard is 50 by 50 pixels. Here is my checkerboard, with the
-square in row 3, column 3 selected, shown at reduced size:
+each square on the checkerboard is 50 by 50 pixels.
 
 Javafx setup instructions:
 Download javafx from: https://gluonhq.com/products/javafx/ (I used javafx 12). Save it to a location of your choice.
